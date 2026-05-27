@@ -1,15 +1,15 @@
 # Samuka9191
 
+# 🔥 𝑩𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 🔥
 
-# 👋 Bem-vindo!
+⚡ 𝑺𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍
 
-🚀 Olá! Seja bem-vindo ao meu perfil  
+👨‍💻 𝑫𝒆𝒗 𝒆𝒎 𝒇𝒐𝒓𝒎𝒂çã𝒐 𝒏𝒐 𝑺𝑬𝑵𝑨𝑰  
+💻 𝑨𝒑𝒓𝒆𝒏𝒅𝒆𝒏𝒅𝒐 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂çã𝒐 𝒆 𝑮𝒊𝒕/𝑮𝒊𝒕𝑯𝒖𝒃  
+🚀 𝑻𝒆𝒄𝒏𝒐𝒍𝒐𝒈𝒊𝒂, 𝒄ó𝒅𝒊𝒈𝒐 𝒆 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔
 
-👨‍💻 Estudante de Desenvolvimento de Sistemas no SENAI  
-💻 Aprendendo programação e Git/GitHub  
-📚 Sempre evoluindo na área de tecnologia  
+✨ 𝑭𝒊𝒒𝒖𝒆 à 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒆𝒙𝒑𝒍𝒐𝒓𝒂𝒓 𝒎𝒆𝒖𝒔 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔!
 
-✨ Fique à vontade para explorar meus projetos!
 
 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
