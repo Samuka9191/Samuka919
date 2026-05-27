@@ -21,3 +21,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=000000&center=true&vCenter=true&width=900&lines=Professor+de+Desenvolvimento+de+Sistemas;Desenvolvedor+Web;Criando+projetos+e+experiencias" alt="Typing SVG" />
 </p>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph-dark.svg">
+<img src="https://raw.githubusercontent.com/franks-sys/franks-sys/output/pacman-contribution-graph.svg">
+</picture>
